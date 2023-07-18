@@ -1,1 +1,1 @@
-# PUC-RIO-MVP-S2
+MVP Sprint II - PUC Rio. Este arquivo refere-se ao trabalho de conclusão da Sprint II - Machine Learning & Analytics, realizado na PUC Rio, entre maio e julho de 2023. Trata-se de um MVP focado no treinamento de dois modelos de machine learning, sendo um modelo utilizando métodos clássicos para um problema de classificação e outro, utilizando deep learning para processamento de linguagem natural.
